@@ -42,5 +42,12 @@ class CodeTest(unittest.TestCase):
 		#Le code Aeroport doit commencer par un C
 		self.assertEqual(Allcode.CodeAeroport.char, 'A')
 
+class IndividuClientPassagerTest(object):
+	#Test pour la classe individu, client et passager
+
+	def test():
+		pass
+		
+
 if __name__ == "__main__" :
 	unittest.main()
